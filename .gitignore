@@ -217,6 +217,6 @@ pip-log.txt
 .mr.developer.cfg
 
 #Unity Folders to ignore
-Library\
-obj\
-Temp\
+Library/
+obj/
+Temp/
