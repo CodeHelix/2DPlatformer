@@ -233,3 +233,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 1
   axisName: Horizontal
+  anim: {fileID: 0}
